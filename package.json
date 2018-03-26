@@ -24,17 +24,10 @@
   ],
   "dependencies": {
     "array-flatten": "1.1.1",
-    "body-parser": "1.18.2",
-    "content-disposition": "0.5.2",
-    "content-type": "~1.0.4",
-    "cookie": "0.3.1",
-    "cookie-signature": "1.0.6",
     "debug": "2.6.9",
     "depd": "~1.1.2",
-    "encodeurl": "~1.0.2",
     "escape-html": "~1.0.3",
     "etag": "~1.8.1",
-    "finalhandler": "1.1.1",
     "merge-descriptors": "1.0.1",
     "methods": "~1.1.2",
     "on-finished": "~2.3.0",
@@ -47,8 +40,7 @@
     "serve-static": "1.13.2",
     "setprototypeof": "1.1.0",
     "statuses": "~1.4.0",
-    "utils-merge": "1.0.1",
-    "vary": "~1.1.2"
+    "utils-merge": "1.0.1"
   },
   "devDependencies": {
     "after": "0.8.2",
