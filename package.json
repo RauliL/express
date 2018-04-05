@@ -29,7 +29,6 @@
     "merge-descriptors": "1.0.1",
     "on-finished": "~2.3.0",
     "path-to-regexp": "0.1.7",
-    "proxy-addr": "~2.0.3",
     "qs": "6.5.1",
     "safe-buffer": "5.1.1",
     "send": "0.16.2",
