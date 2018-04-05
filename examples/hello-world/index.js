@@ -1,13 +1,13 @@
-var express = require('../../');
+const gophress = require('../../');
 
-var app = express();
+const app = gophress();
 
-app.get('/', function (req, res) {
-  res.send('Hello World');
+app.get('/', (req, res) => {
+  res.send('Hello World\r\n');
 });
 
 /* istanbul ignore next */
 if (!module.parent) {
   app.listen(3000);
-  console.log('Express started on port 3000');
+  console.log('Gophress started on port 3000');
 }
